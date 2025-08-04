@@ -10,8 +10,8 @@ Visit here: https://mylocalweather.vercel.app/
 - 7-day weather forecast
 - Detailed information: temperature, humidity, wind speed, UV index, air quality
 - Sunrise and sunset times
-- Responsive design
-- City search functionality (in progress)
+- Responsive design (mobile layout is in progress)
+- City search functionality (in processing)
 
 ## 🛠️ Technologies Used
 
@@ -57,3 +57,8 @@ npm run dev
 ```
 
 The application will run at: `http://localhost:5173`
+
+### 5. In Processing
+
+Some icons of weather statuses are not detailed, such as rain statuses, which are not particularly displayed (e.g., heavy, light), or some environmental indices are not truly shown. 
+So I will make it in the next couple of times.
